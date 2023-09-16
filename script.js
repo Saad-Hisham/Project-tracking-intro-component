@@ -1,4 +1,4 @@
-// AOS.init();
+ AOS.init();
 const ham =document.getElementById("ham");
 const close = document.getElementById("close");
 const me = document.getElementById("me");
