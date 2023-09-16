@@ -1,4 +1,4 @@
-/* .nav-bar ul li {
+.nav-bar ul li {
     font-size: 22px;
     font-weight: bold;
     color: #222836;
@@ -98,4 +98,4 @@ animation: open .5s ease-in forwards;
 }
 .close{
     animation: close .5s ease-in forwards;
-    } */
+    } 
